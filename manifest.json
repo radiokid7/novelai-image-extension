@@ -1,0 +1,9 @@
+{
+  "name": "novelai_image_gen",
+  "title": "NovelAI Image Generator",
+  "description": "Generate images from recent chat using your local NovelAI extra.",
+  "version": "1.0.0",
+  "main": "novelai_image_gen.js",
+  "author": "YourWaifuTeam",
+  "license": "MIT"
+}
